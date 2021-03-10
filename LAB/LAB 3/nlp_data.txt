@@ -1,0 +1,26 @@
+Jane Austin
+DR. in UX Design 
+9342178394
+145 Baker St., Kozhikode IN 673001
+69.89.31.226
+www.janaustin.com
+janeaustin@gmail.com
+10-01-1991
+
+Mary James
+PHD. in Django 
+9042178494
+111 Bounce St., Kozhikode IN 673008
+66.89.41.216
+www.maryjames.com
+maryjames@gmail.com
+16-07-1990
+
+Bruno Fernandes
+DR. in Chess 
+9100179394
+101 Choclate St., Kozhikode IN 673004
+60.69.51.221
+www.brunofernandes.com
+brunofernandes@gmail.com
+01-09-1989
