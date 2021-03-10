@@ -1,5 +1,5 @@
 Jane Austin
-DR. in UX Design 
+DR. in UX Design for Websites
 9342178394
 145 Baker St., Kozhikode KL 673001
 69.89.31.226
@@ -8,18 +8,18 @@ janeaustin@gmail.com
 10-01-1991
 
 Mary James
-PHD. in Django 
+PHD. in Django for development
 9042178494
-111 Bounce St., Kozhikode IN 673008
+111 Bounce St., Kannur KL 673008
 66.89.41.216
 www.maryjames.com
 maryjames@gmail.com
 16-07-1990
 
 Bruno Fernandes
-DR. in Chess 
+DR. in Football 
 9100179394
-101 Choclate St., Kozhikode IN 673004
+101 Choclate St., Thrissur KL 673004
 60.69.51.221
 www.brunofernandes.com
 brunofernandes@gmail.com
